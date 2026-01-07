@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+
 # --- Parameters ---
 pen_colors = [(0,0,255), (0,255,0), (255,0,0)]  # Red, Green, Blue
 color_names = ['Red', 'Green', 'Blue']
